@@ -13,4 +13,4 @@ Aplicação backend desenvolvida em Spring Boot para gestão e categorização a
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/duardzx/orcamento-ai.git](https://github.com/duardzx/orcamento-ai.git)
+   git clone (https://github.com/duardzx/orcamento-ai.git)
